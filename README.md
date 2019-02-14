@@ -13,5 +13,6 @@ to exclude directory prefix specific to the system where the experiment has
 been run. Package repositories (CRAN, BIOC) and versions are detailed in
 `README` file.
 
-
-
+More information about staged install and about how to interpret the results
+of the checks is available in the
+(RBlog)[https://developer.r-project.org/Blog/public/2019/02/14/staged-install/index.html]
