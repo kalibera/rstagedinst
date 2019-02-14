@@ -51,35 +51,3 @@ OBJPATH:  attributes(as.list(getNamespace("mtbls2"), all.names=TRUE)[["mtbls2Set
 SPATH:  mtbls2$mtbls2Set-A$filepaths$ mtbls2/mzData/MSpos-Ex2-cyp79-48h-Ag-3_1-B,3_01_9832.mzData 
 OBJPATH:  attributes(as.list(getNamespace("mtbls2"), all.names=TRUE)[["mtbls2Set"]])[["filepaths"]][[""]] mtbls2/mzData/MSpos-Ex2-cyp79-48h-Ag-4_1-B,4_01_9834.mzData 
 SPATH:  mtbls2$mtbls2Set-A$filepaths$ mtbls2/mzData/MSpos-Ex2-cyp79-48h-Ag-4_1-B,4_01_9834.mzData 
-OBJPATH:  attributes(as.list(environment(attributes(as.list(getNamespace("mtbls2"), all.names=TRUE)[["mtbls2Set"]])[["progressCallback"]]),all.names=TRUE)[["l"]][["mtbls2Set"]])[["filepaths"]][[""]] mtbls2/mzData/MSpos-Ex1-Col0-48h-Ag-1_1-A,1_01_9818.mzData 
-SPATH:  mtbls2$mtbls2Set-A$progressCallback-E-$l$mtbls2Set-A$filepaths$ mtbls2/mzData/MSpos-Ex1-Col0-48h-Ag-1_1-A,1_01_9818.mzData 
-OBJPATH:  attributes(as.list(environment(attributes(as.list(getNamespace("mtbls2"), all.names=TRUE)[["mtbls2Set"]])[["progressCallback"]]),all.names=TRUE)[["l"]][["mtbls2Set"]])[["filepaths"]][[""]] mtbls2/mzData/MSpos-Ex1-Col0-48h-Ag-2_1-A,1_01_9820.mzData 
-SPATH:  mtbls2$mtbls2Set-A$progressCallback-E-$l$mtbls2Set-A$filepaths$ mtbls2/mzData/MSpos-Ex1-Col0-48h-Ag-2_1-A,1_01_9820.mzData 
-OBJPATH:  attributes(as.list(environment(attributes(as.list(getNamespace("mtbls2"), all.names=TRUE)[["mtbls2Set"]])[["progressCallback"]]),all.names=TRUE)[["l"]][["mtbls2Set"]])[["filepaths"]][[""]] mtbls2/mzData/MSpos-Ex1-Col0-48h-Ag-3_1-A,1_01_9822.mzData 
-SPATH:  mtbls2$mtbls2Set-A$progressCallback-E-$l$mtbls2Set-A$filepaths$ mtbls2/mzData/MSpos-Ex1-Col0-48h-Ag-3_1-A,1_01_9822.mzData 
-OBJPATH:  attributes(as.list(environment(attributes(as.list(getNamespace("mtbls2"), all.names=TRUE)[["mtbls2Set"]])[["progressCallback"]]),all.names=TRUE)[["l"]][["mtbls2Set"]])[["filepaths"]][[""]] mtbls2/mzData/MSpos-Ex1-Col0-48h-Ag-4_1-A,1_01_9824.mzData 
-SPATH:  mtbls2$mtbls2Set-A$progressCallback-E-$l$mtbls2Set-A$filepaths$ mtbls2/mzData/MSpos-Ex1-Col0-48h-Ag-4_1-A,1_01_9824.mzData 
-OBJPATH:  attributes(as.list(environment(attributes(as.list(getNamespace("mtbls2"), all.names=TRUE)[["mtbls2Set"]])[["progressCallback"]]),all.names=TRUE)[["l"]][["mtbls2Set"]])[["filepaths"]][[""]] mtbls2/mzData/MSpos-Ex1-cyp79-48h-Ag-1_1-B,1_01_9819.mzData 
-SPATH:  mtbls2$mtbls2Set-A$progressCallback-E-$l$mtbls2Set-A$filepaths$ mtbls2/mzData/MSpos-Ex1-cyp79-48h-Ag-1_1-B,1_01_9819.mzData 
-OBJPATH:  attributes(as.list(environment(attributes(as.list(getNamespace("mtbls2"), all.names=TRUE)[["mtbls2Set"]])[["progressCallback"]]),all.names=TRUE)[["l"]][["mtbls2Set"]])[["filepaths"]][[""]] mtbls2/mzData/MSpos-Ex1-cyp79-48h-Ag-2_1-B,2_01_9821.mzData 
-SPATH:  mtbls2$mtbls2Set-A$progressCallback-E-$l$mtbls2Set-A$filepaths$ mtbls2/mzData/MSpos-Ex1-cyp79-48h-Ag-2_1-B,2_01_9821.mzData 
-OBJPATH:  attributes(as.list(environment(attributes(as.list(getNamespace("mtbls2"), all.names=TRUE)[["mtbls2Set"]])[["progressCallback"]]),all.names=TRUE)[["l"]][["mtbls2Set"]])[["filepaths"]][[""]] mtbls2/mzData/MSpos-Ex1-cyp79-48h-Ag-3_1-B,1_01_9823.mzData 
-SPATH:  mtbls2$mtbls2Set-A$progressCallback-E-$l$mtbls2Set-A$filepaths$ mtbls2/mzData/MSpos-Ex1-cyp79-48h-Ag-3_1-B,1_01_9823.mzData 
-OBJPATH:  attributes(as.list(environment(attributes(as.list(getNamespace("mtbls2"), all.names=TRUE)[["mtbls2Set"]])[["progressCallback"]]),all.names=TRUE)[["l"]][["mtbls2Set"]])[["filepaths"]][[""]] mtbls2/mzData/MSpos-Ex1-cyp79-48h-Ag-4_1-B,2_01_9825.mzData 
-SPATH:  mtbls2$mtbls2Set-A$progressCallback-E-$l$mtbls2Set-A$filepaths$ mtbls2/mzData/MSpos-Ex1-cyp79-48h-Ag-4_1-B,2_01_9825.mzData 
-OBJPATH:  attributes(as.list(environment(attributes(as.list(getNamespace("mtbls2"), all.names=TRUE)[["mtbls2Set"]])[["progressCallback"]]),all.names=TRUE)[["l"]][["mtbls2Set"]])[["filepaths"]][[""]] mtbls2/mzData/MSpos-Ex2-Col0-48h-Ag-1_1-A,2_01_9827.mzData 
-SPATH:  mtbls2$mtbls2Set-A$progressCallback-E-$l$mtbls2Set-A$filepaths$ mtbls2/mzData/MSpos-Ex2-Col0-48h-Ag-1_1-A,2_01_9827.mzData 
-OBJPATH:  attributes(as.list(environment(attributes(as.list(getNamespace("mtbls2"), all.names=TRUE)[["mtbls2Set"]])[["progressCallback"]]),all.names=TRUE)[["l"]][["mtbls2Set"]])[["filepaths"]][[""]] mtbls2/mzData/MSpos-Ex2-Col0-48h-Ag-2_1-A,3_01_9829.mzData 
-SPATH:  mtbls2$mtbls2Set-A$progressCallback-E-$l$mtbls2Set-A$filepaths$ mtbls2/mzData/MSpos-Ex2-Col0-48h-Ag-2_1-A,3_01_9829.mzData 
-OBJPATH:  attributes(as.list(environment(attributes(as.list(getNamespace("mtbls2"), all.names=TRUE)[["mtbls2Set"]])[["progressCallback"]]),all.names=TRUE)[["l"]][["mtbls2Set"]])[["filepaths"]][[""]] mtbls2/mzData/MSpos-Ex2-Col0-48h-Ag-3_1-A,4_01_9831.mzData 
-SPATH:  mtbls2$mtbls2Set-A$progressCallback-E-$l$mtbls2Set-A$filepaths$ mtbls2/mzData/MSpos-Ex2-Col0-48h-Ag-3_1-A,4_01_9831.mzData 
-OBJPATH:  attributes(as.list(environment(attributes(as.list(getNamespace("mtbls2"), all.names=TRUE)[["mtbls2Set"]])[["progressCallback"]]),all.names=TRUE)[["l"]][["mtbls2Set"]])[["filepaths"]][[""]] mtbls2/mzData/MSpos-Ex2-Col0-48h-Ag-4_1-A,2_01_9833.mzData 
-SPATH:  mtbls2$mtbls2Set-A$progressCallback-E-$l$mtbls2Set-A$filepaths$ mtbls2/mzData/MSpos-Ex2-Col0-48h-Ag-4_1-A,2_01_9833.mzData 
-OBJPATH:  attributes(as.list(environment(attributes(as.list(getNamespace("mtbls2"), all.names=TRUE)[["mtbls2Set"]])[["progressCallback"]]),all.names=TRUE)[["l"]][["mtbls2Set"]])[["filepaths"]][[""]] mtbls2/mzData/MSpos-Ex2-cyp79-48h-Ag-1_1-B,3_01_9828.mzData 
-SPATH:  mtbls2$mtbls2Set-A$progressCallback-E-$l$mtbls2Set-A$filepaths$ mtbls2/mzData/MSpos-Ex2-cyp79-48h-Ag-1_1-B,3_01_9828.mzData 
-OBJPATH:  attributes(as.list(environment(attributes(as.list(getNamespace("mtbls2"), all.names=TRUE)[["mtbls2Set"]])[["progressCallback"]]),all.names=TRUE)[["l"]][["mtbls2Set"]])[["filepaths"]][[""]] mtbls2/mzData/MSpos-Ex2-cyp79-48h-Ag-2_1-B,4_01_9830.mzData 
-SPATH:  mtbls2$mtbls2Set-A$progressCallback-E-$l$mtbls2Set-A$filepaths$ mtbls2/mzData/MSpos-Ex2-cyp79-48h-Ag-2_1-B,4_01_9830.mzData 
-OBJPATH:  attributes(as.list(environment(attributes(as.list(getNamespace("mtbls2"), all.names=TRUE)[["mtbls2Set"]])[["progressCallback"]]),all.names=TRUE)[["l"]][["mtbls2Set"]])[["filepaths"]][[""]] mtbls2/mzData/MSpos-Ex2-cyp79-48h-Ag-3_1-B,3_01_9832.mzData 
-SPATH:  mtbls2$mtbls2Set-A$progressCallback-E-$l$mtbls2Set-A$filepaths$ mtbls2/mzData/MSpos-Ex2-cyp79-48h-Ag-3_1-B,3_01_9832.mzData 
-OBJPATH:  attributes(as.list(environment(attributes(as.list(getNamespace("mtbls2"), all.names=TRUE)[["mtbls2Set"]])[["progressCallback"]]),all.names=TRUE)[["l"]][["mtbls2Set"]])[["filepaths"]][[""]] mtbls2/mzData/MSpos-Ex2-cyp79-48h-Ag-4_1-B,4_01_9834.mzData 
-SPATH:  mtbls2$mtbls2Set-A$progressCallback-E-$l$mtbls2Set-A$filepaths$ mtbls2/mzData/MSpos-Ex2-cyp79-48h-Ag-4_1-B,4_01_9834.mzData 

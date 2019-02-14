@@ -6,5 +6,3 @@ CONTAINS: ganalytics/extdata/metadata.RDA
 Package contains these objects with hard-coded paths (walkcheck):
 OBJPATH:  as.list(getNamespace("ganalytics"), all.names=TRUE)[["metadata_path"]] ganalytics/extdata/metadata.RDA 
 SPATH:  ganalytics$metadata_path ganalytics/extdata/metadata.RDA 
-OBJPATH:  as.list(environment(as.list(as.list(getNamespace("ganalytics"), all.names=TRUE)[[".__T__coerce<-:methods"]],all.names=TRUE)[["gaView#viewId"]]),all.names=TRUE)[["l"]][["metadata_path"]] ganalytics/extdata/metadata.RDA 
-SPATH:  ganalytics$.__T__coerce<-:methods$gaView#viewId-E-$l$metadata_path ganalytics/extdata/metadata.RDA 

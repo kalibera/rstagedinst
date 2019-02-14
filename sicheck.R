@@ -64,8 +64,11 @@ wcheck <- function(prev, x, objpath, spath) {
 
   if (base::is.null(x) || base::identical(prev, x) ||
       !base::is.null(base::attr(x, "__dpkg__checked")) ||
+
       (base::isS4(x) && base::is.environment(x)
-       && !base::is.null(base::attr(x, "__dpkg__checked"))))
+       && !base::is.null(base::attr(x, "__dpkg__checked"))) ||
+
+      (identical(x,.GlobalEnv) && !is.null(prev)))
 
     return()
 

@@ -6,12 +6,6 @@ CONTAINS: ProjectTemplate/defaults/config/default.dcf
 CONTAINS: ProjectTemplate/defaults/templates/full/config/global.dcf 
 
 Package contains these objects with hard-coded paths (walkcheck):
-OBJPATH:  as.list(as.list(getNamespace("ProjectTemplate"), all.names=TRUE)[[".TargetEnv"]],all.names=TRUE)[["l"]][[".config.types.file"]] ProjectTemplate/defaults/config/types.dcf 
-SPATH:  ProjectTemplate$.TargetEnv$l$.config.types.file ProjectTemplate/defaults/config/types.dcf 
-OBJPATH:  as.list(as.list(getNamespace("ProjectTemplate"), all.names=TRUE)[[".TargetEnv"]],all.names=TRUE)[["l"]][[".default.config.file"]] ProjectTemplate/defaults/config/default.dcf 
-SPATH:  ProjectTemplate$.TargetEnv$l$.default.config.file ProjectTemplate/defaults/config/default.dcf 
-OBJPATH:  as.list(as.list(getNamespace("ProjectTemplate"), all.names=TRUE)[[".TargetEnv"]],all.names=TRUE)[["l"]][[".new.config.file"]] ProjectTemplate/defaults/templates/full/config/global.dcf 
-SPATH:  ProjectTemplate$.TargetEnv$l$.new.config.file ProjectTemplate/defaults/templates/full/config/global.dcf 
 OBJPATH:  as.list(getNamespace("ProjectTemplate"), all.names=TRUE)[[".config.types.file"]] ProjectTemplate/defaults/config/types.dcf 
 SPATH:  ProjectTemplate$.config.types.file ProjectTemplate/defaults/config/types.dcf 
 OBJPATH:  as.list(getNamespace("ProjectTemplate"), all.names=TRUE)[[".default.config.file"]] ProjectTemplate/defaults/config/default.dcf 

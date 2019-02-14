@@ -29,55 +29,55 @@ CONTAINS: zonator/extdata/test_project/zsetup/07.bat
 CONTAINS: zonator/extdata/test_project/zsetup/02/02.spp 
 
 Package contains these objects with hard-coded paths (walkcheck):
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["results.dir"]] zonator/extdata/test_project/zsetup/01/01_out 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$results.dir zonator/extdata/test_project/zsetup/01/01_out 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["setup.dir"]] zonator/extdata/test_project/zsetup 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$setup.dir zonator/extdata/test_project/zsetup 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["results.curves"]] zonator/extdata/test_project/zsetup/02/02_out/02.curves.txt 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$results.curves zonator/extdata/test_project/zsetup/02/02_out/02.curves.txt 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["dat.file.no.results"]] zonator/extdata/test_project/zsetup/06/06.dat 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$dat.file.no.results zonator/extdata/test_project/zsetup/06/06.dat 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["dat.file.cond"]] zonator/extdata/test_project/zsetup/07/07.dat 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$dat.file.cond zonator/extdata/test_project/zsetup/07/07.dat 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["groups.file"]] zonator/extdata/test_project/zsetup/groups.txt 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$groups.file zonator/extdata/test_project/zsetup/groups.txt 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["dat.file.no.grps"]] zonator/extdata/test_project/zsetup/03/03.dat 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$dat.file.no.grps zonator/extdata/test_project/zsetup/03/03.dat 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["spp.file.cond"]] zonator/extdata/test_project/zsetup/07/07.spp 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$spp.file.cond zonator/extdata/test_project/zsetup/07/07.spp 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["spp.file"]] zonator/extdata/test_project/zsetup/01/01.spp 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$spp.file zonator/extdata/test_project/zsetup/01/01.spp 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["results.bat.file"]] zonator/extdata/test_project/zsetup/02.bat 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$results.bat.file zonator/extdata/test_project/zsetup/02.bat 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["output.dir"]] zonator/extdata/test_project/zsetup/output 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$output.dir zonator/extdata/test_project/zsetup/output 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["bat.file.ds"]] zonator/extdata/test_project/zsetup/04.bat 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$bat.file.ds zonator/extdata/test_project/zsetup/04.bat 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["spp.file.no.results"]] zonator/extdata/test_project/zsetup/06/06.spp 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$spp.file.no.results zonator/extdata/test_project/zsetup/06/06.spp 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["bat.file.no.grps"]] zonator/extdata/test_project/zsetup/03.bat 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$bat.file.no.grps zonator/extdata/test_project/zsetup/03.bat 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["bat.file"]] zonator/extdata/test_project/zsetup/01.bat 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$bat.file zonator/extdata/test_project/zsetup/01.bat 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["data.dir"]] zonator/extdata/test_project/data 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$data.dir zonator/extdata/test_project/data 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["tutorial.dir"]] zonator/extdata/test_project 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$tutorial.dir zonator/extdata/test_project 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["dat.file.ds"]] zonator/extdata/test_project/zsetup/04/04.dat 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$dat.file.ds zonator/extdata/test_project/zsetup/04/04.dat 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["dat.file"]] zonator/extdata/test_project/zsetup/01/01.dat 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$dat.file zonator/extdata/test_project/zsetup/01/01.dat 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["condition.file"]] zonator/extdata/test_project/zsetup/cond_list.txt 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$condition.file zonator/extdata/test_project/zsetup/cond_list.txt 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["results.grp.curves"]] zonator/extdata/test_project/zsetup/02/02_out/02.grp_curves.txt 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$results.grp.curves zonator/extdata/test_project/zsetup/02/02_out/02.grp_curves.txt 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["bat.file.no.results"]] zonator/extdata/test_project/zsetup/06.batx 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$bat.file.no.results zonator/extdata/test_project/zsetup/06.batx 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["spp.file.no.grps"]] zonator/extdata/test_project/zsetup/03/03.spp 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$spp.file.no.grps zonator/extdata/test_project/zsetup/03/03.spp 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["spp.file.ds"]] zonator/extdata/test_project/zsetup/04/04.spp 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$spp.file.ds zonator/extdata/test_project/zsetup/04/04.spp 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["bat.file.cond"]] zonator/extdata/test_project/zsetup/07.bat 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$bat.file.cond zonator/extdata/test_project/zsetup/07.bat 
-OBJPATH:  as.list(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("zonator"), all.names=TRUE)[[".__C__Zresults"]])[["prototype"]])[["rank"]])[["rotation"]])[["transfun"]]),all.names=TRUE)[["l"]][[".options"]],all.names=TRUE)[["results.spp.file"]] zonator/extdata/test_project/zsetup/02/02.spp 
-SPATH:  zonator$.__C__Zresults-A$prototype-A$rank-A$rotation-A$transfun-E-$l$.options$results.spp.file zonator/extdata/test_project/zsetup/02/02.spp 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["results.dir"]] zonator/extdata/test_project/zsetup/01/01_out 
+SPATH:  zonator$.options$results.dir zonator/extdata/test_project/zsetup/01/01_out 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["setup.dir"]] zonator/extdata/test_project/zsetup 
+SPATH:  zonator$.options$setup.dir zonator/extdata/test_project/zsetup 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["results.curves"]] zonator/extdata/test_project/zsetup/02/02_out/02.curves.txt 
+SPATH:  zonator$.options$results.curves zonator/extdata/test_project/zsetup/02/02_out/02.curves.txt 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["dat.file.no.results"]] zonator/extdata/test_project/zsetup/06/06.dat 
+SPATH:  zonator$.options$dat.file.no.results zonator/extdata/test_project/zsetup/06/06.dat 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["dat.file.cond"]] zonator/extdata/test_project/zsetup/07/07.dat 
+SPATH:  zonator$.options$dat.file.cond zonator/extdata/test_project/zsetup/07/07.dat 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["groups.file"]] zonator/extdata/test_project/zsetup/groups.txt 
+SPATH:  zonator$.options$groups.file zonator/extdata/test_project/zsetup/groups.txt 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["dat.file.no.grps"]] zonator/extdata/test_project/zsetup/03/03.dat 
+SPATH:  zonator$.options$dat.file.no.grps zonator/extdata/test_project/zsetup/03/03.dat 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["spp.file.cond"]] zonator/extdata/test_project/zsetup/07/07.spp 
+SPATH:  zonator$.options$spp.file.cond zonator/extdata/test_project/zsetup/07/07.spp 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["spp.file"]] zonator/extdata/test_project/zsetup/01/01.spp 
+SPATH:  zonator$.options$spp.file zonator/extdata/test_project/zsetup/01/01.spp 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["results.bat.file"]] zonator/extdata/test_project/zsetup/02.bat 
+SPATH:  zonator$.options$results.bat.file zonator/extdata/test_project/zsetup/02.bat 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["output.dir"]] zonator/extdata/test_project/zsetup/output 
+SPATH:  zonator$.options$output.dir zonator/extdata/test_project/zsetup/output 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["bat.file.ds"]] zonator/extdata/test_project/zsetup/04.bat 
+SPATH:  zonator$.options$bat.file.ds zonator/extdata/test_project/zsetup/04.bat 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["spp.file.no.results"]] zonator/extdata/test_project/zsetup/06/06.spp 
+SPATH:  zonator$.options$spp.file.no.results zonator/extdata/test_project/zsetup/06/06.spp 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["bat.file.no.grps"]] zonator/extdata/test_project/zsetup/03.bat 
+SPATH:  zonator$.options$bat.file.no.grps zonator/extdata/test_project/zsetup/03.bat 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["bat.file"]] zonator/extdata/test_project/zsetup/01.bat 
+SPATH:  zonator$.options$bat.file zonator/extdata/test_project/zsetup/01.bat 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["data.dir"]] zonator/extdata/test_project/data 
+SPATH:  zonator$.options$data.dir zonator/extdata/test_project/data 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["tutorial.dir"]] zonator/extdata/test_project 
+SPATH:  zonator$.options$tutorial.dir zonator/extdata/test_project 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["dat.file.ds"]] zonator/extdata/test_project/zsetup/04/04.dat 
+SPATH:  zonator$.options$dat.file.ds zonator/extdata/test_project/zsetup/04/04.dat 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["dat.file"]] zonator/extdata/test_project/zsetup/01/01.dat 
+SPATH:  zonator$.options$dat.file zonator/extdata/test_project/zsetup/01/01.dat 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["condition.file"]] zonator/extdata/test_project/zsetup/cond_list.txt 
+SPATH:  zonator$.options$condition.file zonator/extdata/test_project/zsetup/cond_list.txt 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["results.grp.curves"]] zonator/extdata/test_project/zsetup/02/02_out/02.grp_curves.txt 
+SPATH:  zonator$.options$results.grp.curves zonator/extdata/test_project/zsetup/02/02_out/02.grp_curves.txt 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["bat.file.no.results"]] zonator/extdata/test_project/zsetup/06.batx 
+SPATH:  zonator$.options$bat.file.no.results zonator/extdata/test_project/zsetup/06.batx 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["spp.file.no.grps"]] zonator/extdata/test_project/zsetup/03/03.spp 
+SPATH:  zonator$.options$spp.file.no.grps zonator/extdata/test_project/zsetup/03/03.spp 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["spp.file.ds"]] zonator/extdata/test_project/zsetup/04/04.spp 
+SPATH:  zonator$.options$spp.file.ds zonator/extdata/test_project/zsetup/04/04.spp 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["bat.file.cond"]] zonator/extdata/test_project/zsetup/07.bat 
+SPATH:  zonator$.options$bat.file.cond zonator/extdata/test_project/zsetup/07.bat 
+OBJPATH:  as.list(as.list(getNamespace("zonator"), all.names=TRUE)[[".options"]],all.names=TRUE)[["results.spp.file"]] zonator/extdata/test_project/zsetup/02/02.spp 
+SPATH:  zonator$.options$results.spp.file zonator/extdata/test_project/zsetup/02/02.spp 
