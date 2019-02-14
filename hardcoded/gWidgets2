@@ -1,0 +1,539 @@
+gWidgets2 1.0-7
+
+Package contains these hard-coded paths (sercheck):
+CONTAINS: gWidgets2/images/1downarrow.gif
+CONTAINS: gWidgets2/images/1leftarrow.gif
+CONTAINS: gWidgets2/images/1rightarrow.gif
+CONTAINS: gWidgets2/images/1uparrow.gif
+CONTAINS: gWidgets2/images/2dlayer.gif
+CONTAINS: gWidgets2/images/3dcontour.gif
+CONTAINS: gWidgets2/images/Rplots.ps
+CONTAINS: gWidgets2/images/alert.gif
+CONTAINS: gWidgets2/images/arrows.gif
+CONTAINS: gWidgets2/images/arrows1.gif
+CONTAINS: gWidgets2/images/backward.gif
+CONTAINS: gWidgets2/images/barplot.gif
+CONTAINS: gWidgets2/images/boxplot.gif
+CONTAINS: gWidgets2/images/boxplot1.gif
+CONTAINS: gWidgets2/images/bubbles.gif
+CONTAINS: gWidgets2/images/cancel.gif
+CONTAINS: gWidgets2/images/character.gif
+CONTAINS: gWidgets2/images/clear.gif
+CONTAINS: gWidgets2/images/cloud.gif
+CONTAINS: gWidgets2/images/coffee.png
+CONTAINS: gWidgets2/images/comment.png
+CONTAINS: gWidgets2/images/configure.gif
+CONTAINS: gWidgets2/images/contour.gif
+CONTAINS: gWidgets2/images/curve.gif
+CONTAINS: gWidgets2/images/dataframe.gif
+CONTAINS: gWidgets2/images/datasheet.gif
+CONTAINS: gWidgets2/images/date.gif
+CONTAINS: gWidgets2/images/density.gif
+CONTAINS: gWidgets2/images/directory.gif
+CONTAINS: gWidgets2/images/dismiss.gif
+CONTAINS: gWidgets2/images/down.gif
+CONTAINS: gWidgets2/images/ed-remove.gif
+CONTAINS: gWidgets2/images/ed-search.gif
+CONTAINS: gWidgets2/images/editor.gif
+CONTAINS: gWidgets2/images/error.gif
+CONTAINS: gWidgets2/images/evaluate.gif
+CONTAINS: gWidgets2/images/factor.gif
+CONTAINS: gWidgets2/images/file.gif
+CONTAINS: gWidgets2/images/forward.gif
+CONTAINS: gWidgets2/images/function1.gif
+CONTAINS: gWidgets2/images/go.gif
+CONTAINS: gWidgets2/images/graph.gif
+CONTAINS: gWidgets2/images/help.gif
+CONTAINS: gWidgets2/images/help_topic.gif
+CONTAINS: gWidgets2/images/hist.gif
+CONTAINS: gWidgets2/images/history.gif
+CONTAINS: gWidgets2/images/home.gif
+CONTAINS: gWidgets2/images/lines.gif
+CONTAINS: gWidgets2/images/logical.gif
+CONTAINS: gWidgets2/images/matrix.gif
+CONTAINS: gWidgets2/images/newplot.gif
+CONTAINS: gWidgets2/images/numeric.gif
+CONTAINS: gWidgets2/images/ok.gif
+CONTAINS: gWidgets2/images/open.gif
+CONTAINS: gWidgets2/images/overview.gif
+CONTAINS: gWidgets2/images/plot.gif
+CONTAINS: gWidgets2/images/plot1.gif
+CONTAINS: gWidgets2/images/points.gif
+CONTAINS: gWidgets2/images/polar.gif
+CONTAINS: gWidgets2/images/preview.gif
+CONTAINS: gWidgets2/images/print.gif
+CONTAINS: gWidgets2/images/quit.gif
+CONTAINS: gWidgets2/images/refresh.gif
+CONTAINS: gWidgets2/images/reset.gif
+CONTAINS: gWidgets2/images/rlogo.gif
+CONTAINS: gWidgets2/images/save.gif
+CONTAINS: gWidgets2/images/save_edit.gif
+CONTAINS: gWidgets2/images/scatterplot3d.png
+CONTAINS: gWidgets2/images/settings.png
+CONTAINS: gWidgets2/images/spike.gif
+CONTAINS: gWidgets2/images/stop.gif
+CONTAINS: gWidgets2/images/subset.gif
+CONTAINS: gWidgets2/images/symbol_circle.gif
+CONTAINS: gWidgets2/images/symbol_cross.gif
+CONTAINS: gWidgets2/images/symbol_diamond.gif
+CONTAINS: gWidgets2/images/symbol_dntriangle.gif
+CONTAINS: gWidgets2/images/symbol_dot.gif
+CONTAINS: gWidgets2/images/symbol_impulse.gif
+CONTAINS: gWidgets2/images/symbol_ltriangle.gif
+CONTAINS: gWidgets2/images/symbol_plus.gif
+CONTAINS: gWidgets2/images/symbol_rtriangle.gif
+CONTAINS: gWidgets2/images/symbol_square.gif
+CONTAINS: gWidgets2/images/symbol_star.gif
+CONTAINS: gWidgets2/images/symbol_uptriangle.gif
+CONTAINS: gWidgets2/images/thumbs-down.png
+CONTAINS: gWidgets2/images/thumbs-up.png
+CONTAINS: gWidgets2/images/ts.gif
+CONTAINS: gWidgets2/images/up.gif
+CONTAINS: gWidgets2/images/zoom.gif
+CONTAINS: gWidgets2/images/1downarrow.gif
+CONTAINS: gWidgets2/images/1leftarrow.gif
+CONTAINS: gWidgets2/images/1rightarrow.gif
+CONTAINS: gWidgets2/images/1uparrow.gif
+CONTAINS: gWidgets2/images/2dlayer.gif
+CONTAINS: gWidgets2/images/3dcontour.gif
+CONTAINS: gWidgets2/images/Rplots.ps
+CONTAINS: gWidgets2/images/alert.gif
+CONTAINS: gWidgets2/images/arrows.gif
+CONTAINS: gWidgets2/images/arrows1.gif
+CONTAINS: gWidgets2/images/backward.gif
+CONTAINS: gWidgets2/images/barplot.gif
+CONTAINS: gWidgets2/images/boxplot.gif
+CONTAINS: gWidgets2/images/boxplot1.gif
+CONTAINS: gWidgets2/images/bubbles.gif
+CONTAINS: gWidgets2/images/cancel.gif
+CONTAINS: gWidgets2/images/character.gif
+CONTAINS: gWidgets2/images/clear.gif
+CONTAINS: gWidgets2/images/cloud.gif
+CONTAINS: gWidgets2/images/coffee.png
+CONTAINS: gWidgets2/images/comment.png
+CONTAINS: gWidgets2/images/configure.gif
+CONTAINS: gWidgets2/images/contour.gif
+CONTAINS: gWidgets2/images/curve.gif
+CONTAINS: gWidgets2/images/dataframe.gif
+CONTAINS: gWidgets2/images/datasheet.gif
+CONTAINS: gWidgets2/images/date.gif
+CONTAINS: gWidgets2/images/density.gif
+CONTAINS: gWidgets2/images/directory.gif
+CONTAINS: gWidgets2/images/dismiss.gif
+CONTAINS: gWidgets2/images/down.gif
+CONTAINS: gWidgets2/images/ed-remove.gif
+CONTAINS: gWidgets2/images/ed-search.gif
+CONTAINS: gWidgets2/images/editor.gif
+CONTAINS: gWidgets2/images/error.gif
+CONTAINS: gWidgets2/images/evaluate.gif
+CONTAINS: gWidgets2/images/factor.gif
+CONTAINS: gWidgets2/images/file.gif
+CONTAINS: gWidgets2/images/forward.gif
+CONTAINS: gWidgets2/images/function1.gif
+CONTAINS: gWidgets2/images/go.gif
+CONTAINS: gWidgets2/images/graph.gif
+CONTAINS: gWidgets2/images/help.gif
+CONTAINS: gWidgets2/images/help_topic.gif
+CONTAINS: gWidgets2/images/hist.gif
+CONTAINS: gWidgets2/images/history.gif
+CONTAINS: gWidgets2/images/home.gif
+CONTAINS: gWidgets2/images/lines.gif
+CONTAINS: gWidgets2/images/logical.gif
+CONTAINS: gWidgets2/images/matrix.gif
+CONTAINS: gWidgets2/images/newplot.gif
+CONTAINS: gWidgets2/images/numeric.gif
+CONTAINS: gWidgets2/images/ok.gif
+CONTAINS: gWidgets2/images/open.gif
+CONTAINS: gWidgets2/images/overview.gif
+CONTAINS: gWidgets2/images/plot.gif
+CONTAINS: gWidgets2/images/plot1.gif
+CONTAINS: gWidgets2/images/points.gif
+CONTAINS: gWidgets2/images/polar.gif
+CONTAINS: gWidgets2/images/preview.gif
+CONTAINS: gWidgets2/images/print.gif
+CONTAINS: gWidgets2/images/quit.gif
+CONTAINS: gWidgets2/images/refresh.gif
+CONTAINS: gWidgets2/images/reset.gif
+CONTAINS: gWidgets2/images/rlogo.gif
+CONTAINS: gWidgets2/images/save.gif
+CONTAINS: gWidgets2/images/save_edit.gif
+CONTAINS: gWidgets2/images/scatterplot3d.png
+CONTAINS: gWidgets2/images/settings.png
+CONTAINS: gWidgets2/images/spike.gif
+CONTAINS: gWidgets2/images/stop.gif
+CONTAINS: gWidgets2/images/subset.gif
+CONTAINS: gWidgets2/images/symbol_circle.gif
+CONTAINS: gWidgets2/images/symbol_cross.gif
+CONTAINS: gWidgets2/images/symbol_diamond.gif
+CONTAINS: gWidgets2/images/symbol_dntriangle.gif
+CONTAINS: gWidgets2/images/symbol_dot.gif
+CONTAINS: gWidgets2/images/symbol_impulse.gif
+CONTAINS: gWidgets2/images/symbol_ltriangle.gif
+CONTAINS: gWidgets2/images/symbol_plus.gif
+CONTAINS: gWidgets2/images/symbol_rtriangle.gif
+CONTAINS: gWidgets2/images/symbol_square.gif
+CONTAINS: gWidgets2/images/symbol_star.gif
+CONTAINS: gWidgets2/images/symbol_uptriangle.gif
+CONTAINS: gWidgets2/images/thumbs-down.png
+CONTAINS: gWidgets2/images/thumbs-up.png
+CONTAINS: gWidgets2/images/ts.gif
+CONTAINS: gWidgets2/images/up.gif
+CONTAINS: gWidgets2/images/zoom.gif 
+
+Package contains these objects with hard-coded paths (walkcheck):
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["1downarrow"]] gWidgets2/images/1downarrow.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$1downarrow gWidgets2/images/1downarrow.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["1leftarrow"]] gWidgets2/images/1leftarrow.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$1leftarrow gWidgets2/images/1leftarrow.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["1rightarrow"]] gWidgets2/images/1rightarrow.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$1rightarrow gWidgets2/images/1rightarrow.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["1uparrow"]] gWidgets2/images/1uparrow.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$1uparrow gWidgets2/images/1uparrow.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["2dlayer"]] gWidgets2/images/2dlayer.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$2dlayer gWidgets2/images/2dlayer.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["3dcontour"]] gWidgets2/images/3dcontour.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$3dcontour gWidgets2/images/3dcontour.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["Rplots.ps"]] gWidgets2/images/Rplots.ps 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$Rplots.ps gWidgets2/images/Rplots.ps 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["alert"]] gWidgets2/images/alert.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$alert gWidgets2/images/alert.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["arrows"]] gWidgets2/images/arrows.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$arrows gWidgets2/images/arrows.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["arrows1"]] gWidgets2/images/arrows1.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$arrows1 gWidgets2/images/arrows1.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["backward"]] gWidgets2/images/backward.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$backward gWidgets2/images/backward.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["barplot"]] gWidgets2/images/barplot.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$barplot gWidgets2/images/barplot.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["boxplot"]] gWidgets2/images/boxplot.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$boxplot gWidgets2/images/boxplot.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["boxplot1"]] gWidgets2/images/boxplot1.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$boxplot1 gWidgets2/images/boxplot1.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["bubbles"]] gWidgets2/images/bubbles.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$bubbles gWidgets2/images/bubbles.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["cancel"]] gWidgets2/images/cancel.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$cancel gWidgets2/images/cancel.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["character"]] gWidgets2/images/character.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$character gWidgets2/images/character.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["clear"]] gWidgets2/images/clear.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$clear gWidgets2/images/clear.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["cloud"]] gWidgets2/images/cloud.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$cloud gWidgets2/images/cloud.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["coffee"]] gWidgets2/images/coffee.png 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$coffee gWidgets2/images/coffee.png 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["comment"]] gWidgets2/images/comment.png 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$comment gWidgets2/images/comment.png 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["configure"]] gWidgets2/images/configure.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$configure gWidgets2/images/configure.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["contour"]] gWidgets2/images/contour.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$contour gWidgets2/images/contour.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["curve"]] gWidgets2/images/curve.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$curve gWidgets2/images/curve.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["dataframe"]] gWidgets2/images/dataframe.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$dataframe gWidgets2/images/dataframe.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["datasheet"]] gWidgets2/images/datasheet.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$datasheet gWidgets2/images/datasheet.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["date"]] gWidgets2/images/date.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$date gWidgets2/images/date.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["density"]] gWidgets2/images/density.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$density gWidgets2/images/density.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["directory"]] gWidgets2/images/directory.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$directory gWidgets2/images/directory.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["dismiss"]] gWidgets2/images/dismiss.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$dismiss gWidgets2/images/dismiss.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["down"]] gWidgets2/images/down.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$down gWidgets2/images/down.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["ed-remove"]] gWidgets2/images/ed-remove.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$ed-remove gWidgets2/images/ed-remove.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["ed-search"]] gWidgets2/images/ed-search.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$ed-search gWidgets2/images/ed-search.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["editor"]] gWidgets2/images/editor.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$editor gWidgets2/images/editor.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["error"]] gWidgets2/images/error.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$error gWidgets2/images/error.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["evaluate"]] gWidgets2/images/evaluate.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$evaluate gWidgets2/images/evaluate.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["factor"]] gWidgets2/images/factor.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$factor gWidgets2/images/factor.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["file"]] gWidgets2/images/file.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$file gWidgets2/images/file.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["forward"]] gWidgets2/images/forward.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$forward gWidgets2/images/forward.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["function1"]] gWidgets2/images/function1.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$function1 gWidgets2/images/function1.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["go"]] gWidgets2/images/go.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$go gWidgets2/images/go.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["graph"]] gWidgets2/images/graph.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$graph gWidgets2/images/graph.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["help"]] gWidgets2/images/help.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$help gWidgets2/images/help.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["help_topic"]] gWidgets2/images/help_topic.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$help_topic gWidgets2/images/help_topic.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["hist"]] gWidgets2/images/hist.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$hist gWidgets2/images/hist.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["history"]] gWidgets2/images/history.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$history gWidgets2/images/history.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["home"]] gWidgets2/images/home.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$home gWidgets2/images/home.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["lines"]] gWidgets2/images/lines.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$lines gWidgets2/images/lines.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["logical"]] gWidgets2/images/logical.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$logical gWidgets2/images/logical.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["matrix"]] gWidgets2/images/matrix.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$matrix gWidgets2/images/matrix.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["newplot"]] gWidgets2/images/newplot.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$newplot gWidgets2/images/newplot.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["numeric"]] gWidgets2/images/numeric.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$numeric gWidgets2/images/numeric.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["ok"]] gWidgets2/images/ok.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$ok gWidgets2/images/ok.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["open"]] gWidgets2/images/open.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$open gWidgets2/images/open.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["overview"]] gWidgets2/images/overview.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$overview gWidgets2/images/overview.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["plot"]] gWidgets2/images/plot.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$plot gWidgets2/images/plot.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["plot1"]] gWidgets2/images/plot1.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$plot1 gWidgets2/images/plot1.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["points"]] gWidgets2/images/points.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$points gWidgets2/images/points.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["polar"]] gWidgets2/images/polar.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$polar gWidgets2/images/polar.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["preview"]] gWidgets2/images/preview.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$preview gWidgets2/images/preview.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["print"]] gWidgets2/images/print.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$print gWidgets2/images/print.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["quit"]] gWidgets2/images/quit.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$quit gWidgets2/images/quit.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["refresh"]] gWidgets2/images/refresh.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$refresh gWidgets2/images/refresh.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["reset"]] gWidgets2/images/reset.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$reset gWidgets2/images/reset.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["rlogo"]] gWidgets2/images/rlogo.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$rlogo gWidgets2/images/rlogo.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["save"]] gWidgets2/images/save.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$save gWidgets2/images/save.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["save_edit"]] gWidgets2/images/save_edit.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$save_edit gWidgets2/images/save_edit.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["scatterplot3d"]] gWidgets2/images/scatterplot3d.png 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$scatterplot3d gWidgets2/images/scatterplot3d.png 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["settings"]] gWidgets2/images/settings.png 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$settings gWidgets2/images/settings.png 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["spike"]] gWidgets2/images/spike.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$spike gWidgets2/images/spike.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["stop"]] gWidgets2/images/stop.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$stop gWidgets2/images/stop.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["subset"]] gWidgets2/images/subset.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$subset gWidgets2/images/subset.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["symbol_circle"]] gWidgets2/images/symbol_circle.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$symbol_circle gWidgets2/images/symbol_circle.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["symbol_cross"]] gWidgets2/images/symbol_cross.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$symbol_cross gWidgets2/images/symbol_cross.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["symbol_diamond"]] gWidgets2/images/symbol_diamond.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$symbol_diamond gWidgets2/images/symbol_diamond.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["symbol_dntriangle"]] gWidgets2/images/symbol_dntriangle.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$symbol_dntriangle gWidgets2/images/symbol_dntriangle.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["symbol_dot"]] gWidgets2/images/symbol_dot.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$symbol_dot gWidgets2/images/symbol_dot.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["symbol_impulse"]] gWidgets2/images/symbol_impulse.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$symbol_impulse gWidgets2/images/symbol_impulse.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["symbol_ltriangle"]] gWidgets2/images/symbol_ltriangle.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$symbol_ltriangle gWidgets2/images/symbol_ltriangle.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["symbol_plus"]] gWidgets2/images/symbol_plus.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$symbol_plus gWidgets2/images/symbol_plus.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["symbol_rtriangle"]] gWidgets2/images/symbol_rtriangle.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$symbol_rtriangle gWidgets2/images/symbol_rtriangle.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["symbol_square"]] gWidgets2/images/symbol_square.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$symbol_square gWidgets2/images/symbol_square.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["symbol_star"]] gWidgets2/images/symbol_star.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$symbol_star gWidgets2/images/symbol_star.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["symbol_uptriangle"]] gWidgets2/images/symbol_uptriangle.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$symbol_uptriangle gWidgets2/images/symbol_uptriangle.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["thumbs-down"]] gWidgets2/images/thumbs-down.png 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$thumbs-down gWidgets2/images/thumbs-down.png 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["thumbs-up"]] gWidgets2/images/thumbs-up.png 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$thumbs-up gWidgets2/images/thumbs-up.png 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["ts"]] gWidgets2/images/ts.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$ts gWidgets2/images/ts.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["up"]] gWidgets2/images/up.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$up gWidgets2/images/up.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[[".->icons"]][["zoom"]] gWidgets2/images/zoom.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$.->icons$zoom gWidgets2/images/zoom.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["1downarrow"]] gWidgets2/images/1downarrow.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$1downarrow gWidgets2/images/1downarrow.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["1leftarrow"]] gWidgets2/images/1leftarrow.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$1leftarrow gWidgets2/images/1leftarrow.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["1rightarrow"]] gWidgets2/images/1rightarrow.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$1rightarrow gWidgets2/images/1rightarrow.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["1uparrow"]] gWidgets2/images/1uparrow.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$1uparrow gWidgets2/images/1uparrow.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["2dlayer"]] gWidgets2/images/2dlayer.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$2dlayer gWidgets2/images/2dlayer.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["3dcontour"]] gWidgets2/images/3dcontour.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$3dcontour gWidgets2/images/3dcontour.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["Rplots.ps"]] gWidgets2/images/Rplots.ps 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$Rplots.ps gWidgets2/images/Rplots.ps 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["alert"]] gWidgets2/images/alert.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$alert gWidgets2/images/alert.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["arrows"]] gWidgets2/images/arrows.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$arrows gWidgets2/images/arrows.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["arrows1"]] gWidgets2/images/arrows1.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$arrows1 gWidgets2/images/arrows1.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["backward"]] gWidgets2/images/backward.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$backward gWidgets2/images/backward.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["barplot"]] gWidgets2/images/barplot.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$barplot gWidgets2/images/barplot.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["boxplot"]] gWidgets2/images/boxplot.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$boxplot gWidgets2/images/boxplot.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["boxplot1"]] gWidgets2/images/boxplot1.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$boxplot1 gWidgets2/images/boxplot1.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["bubbles"]] gWidgets2/images/bubbles.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$bubbles gWidgets2/images/bubbles.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["cancel"]] gWidgets2/images/cancel.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$cancel gWidgets2/images/cancel.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["character"]] gWidgets2/images/character.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$character gWidgets2/images/character.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["clear"]] gWidgets2/images/clear.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$clear gWidgets2/images/clear.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["cloud"]] gWidgets2/images/cloud.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$cloud gWidgets2/images/cloud.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["coffee"]] gWidgets2/images/coffee.png 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$coffee gWidgets2/images/coffee.png 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["comment"]] gWidgets2/images/comment.png 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$comment gWidgets2/images/comment.png 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["configure"]] gWidgets2/images/configure.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$configure gWidgets2/images/configure.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["contour"]] gWidgets2/images/contour.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$contour gWidgets2/images/contour.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["curve"]] gWidgets2/images/curve.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$curve gWidgets2/images/curve.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["dataframe"]] gWidgets2/images/dataframe.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$dataframe gWidgets2/images/dataframe.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["datasheet"]] gWidgets2/images/datasheet.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$datasheet gWidgets2/images/datasheet.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["date"]] gWidgets2/images/date.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$date gWidgets2/images/date.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["density"]] gWidgets2/images/density.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$density gWidgets2/images/density.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["directory"]] gWidgets2/images/directory.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$directory gWidgets2/images/directory.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["dismiss"]] gWidgets2/images/dismiss.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$dismiss gWidgets2/images/dismiss.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["down"]] gWidgets2/images/down.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$down gWidgets2/images/down.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["ed-remove"]] gWidgets2/images/ed-remove.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$ed-remove gWidgets2/images/ed-remove.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["ed-search"]] gWidgets2/images/ed-search.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$ed-search gWidgets2/images/ed-search.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["editor"]] gWidgets2/images/editor.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$editor gWidgets2/images/editor.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["error"]] gWidgets2/images/error.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$error gWidgets2/images/error.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["evaluate"]] gWidgets2/images/evaluate.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$evaluate gWidgets2/images/evaluate.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["factor"]] gWidgets2/images/factor.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$factor gWidgets2/images/factor.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["file"]] gWidgets2/images/file.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$file gWidgets2/images/file.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["forward"]] gWidgets2/images/forward.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$forward gWidgets2/images/forward.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["function1"]] gWidgets2/images/function1.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$function1 gWidgets2/images/function1.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["go"]] gWidgets2/images/go.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$go gWidgets2/images/go.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["graph"]] gWidgets2/images/graph.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$graph gWidgets2/images/graph.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["help"]] gWidgets2/images/help.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$help gWidgets2/images/help.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["help_topic"]] gWidgets2/images/help_topic.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$help_topic gWidgets2/images/help_topic.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["hist"]] gWidgets2/images/hist.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$hist gWidgets2/images/hist.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["history"]] gWidgets2/images/history.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$history gWidgets2/images/history.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["home"]] gWidgets2/images/home.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$home gWidgets2/images/home.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["lines"]] gWidgets2/images/lines.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$lines gWidgets2/images/lines.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["logical"]] gWidgets2/images/logical.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$logical gWidgets2/images/logical.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["matrix"]] gWidgets2/images/matrix.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$matrix gWidgets2/images/matrix.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["newplot"]] gWidgets2/images/newplot.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$newplot gWidgets2/images/newplot.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["numeric"]] gWidgets2/images/numeric.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$numeric gWidgets2/images/numeric.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["ok"]] gWidgets2/images/ok.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$ok gWidgets2/images/ok.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["open"]] gWidgets2/images/open.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$open gWidgets2/images/open.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["overview"]] gWidgets2/images/overview.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$overview gWidgets2/images/overview.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["plot"]] gWidgets2/images/plot.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$plot gWidgets2/images/plot.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["plot1"]] gWidgets2/images/plot1.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$plot1 gWidgets2/images/plot1.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["points"]] gWidgets2/images/points.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$points gWidgets2/images/points.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["polar"]] gWidgets2/images/polar.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$polar gWidgets2/images/polar.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["preview"]] gWidgets2/images/preview.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$preview gWidgets2/images/preview.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["print"]] gWidgets2/images/print.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$print gWidgets2/images/print.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["quit"]] gWidgets2/images/quit.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$quit gWidgets2/images/quit.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["refresh"]] gWidgets2/images/refresh.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$refresh gWidgets2/images/refresh.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["reset"]] gWidgets2/images/reset.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$reset gWidgets2/images/reset.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["rlogo"]] gWidgets2/images/rlogo.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$rlogo gWidgets2/images/rlogo.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["save"]] gWidgets2/images/save.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$save gWidgets2/images/save.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["save_edit"]] gWidgets2/images/save_edit.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$save_edit gWidgets2/images/save_edit.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["scatterplot3d"]] gWidgets2/images/scatterplot3d.png 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$scatterplot3d gWidgets2/images/scatterplot3d.png 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["settings"]] gWidgets2/images/settings.png 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$settings gWidgets2/images/settings.png 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["spike"]] gWidgets2/images/spike.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$spike gWidgets2/images/spike.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["stop"]] gWidgets2/images/stop.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$stop gWidgets2/images/stop.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["subset"]] gWidgets2/images/subset.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$subset gWidgets2/images/subset.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["symbol_circle"]] gWidgets2/images/symbol_circle.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$symbol_circle gWidgets2/images/symbol_circle.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["symbol_cross"]] gWidgets2/images/symbol_cross.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$symbol_cross gWidgets2/images/symbol_cross.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["symbol_diamond"]] gWidgets2/images/symbol_diamond.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$symbol_diamond gWidgets2/images/symbol_diamond.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["symbol_dntriangle"]] gWidgets2/images/symbol_dntriangle.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$symbol_dntriangle gWidgets2/images/symbol_dntriangle.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["symbol_dot"]] gWidgets2/images/symbol_dot.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$symbol_dot gWidgets2/images/symbol_dot.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["symbol_impulse"]] gWidgets2/images/symbol_impulse.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$symbol_impulse gWidgets2/images/symbol_impulse.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["symbol_ltriangle"]] gWidgets2/images/symbol_ltriangle.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$symbol_ltriangle gWidgets2/images/symbol_ltriangle.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["symbol_plus"]] gWidgets2/images/symbol_plus.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$symbol_plus gWidgets2/images/symbol_plus.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["symbol_rtriangle"]] gWidgets2/images/symbol_rtriangle.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$symbol_rtriangle gWidgets2/images/symbol_rtriangle.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["symbol_square"]] gWidgets2/images/symbol_square.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$symbol_square gWidgets2/images/symbol_square.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["symbol_star"]] gWidgets2/images/symbol_star.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$symbol_star gWidgets2/images/symbol_star.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["symbol_uptriangle"]] gWidgets2/images/symbol_uptriangle.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$symbol_uptriangle gWidgets2/images/symbol_uptriangle.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["thumbs-down"]] gWidgets2/images/thumbs-down.png 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$thumbs-down gWidgets2/images/thumbs-down.png 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["thumbs-up"]] gWidgets2/images/thumbs-up.png 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$thumbs-up gWidgets2/images/thumbs-up.png 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["ts"]] gWidgets2/images/ts.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$ts gWidgets2/images/ts.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["up"]] gWidgets2/images/up.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$up gWidgets2/images/up.gif 
+OBJPATH:  as.list(attributes(as.list(getNamespace("gWidgets2"), all.names=TRUE)[[".gWidgetsIcons"]])[[".xData"]],all.names=TRUE)[["icons"]][["zoom"]] gWidgets2/images/zoom.gif 
+SPATH:  gWidgets2$.gWidgetsIcons-A$.xData$icons$zoom gWidgets2/images/zoom.gif 

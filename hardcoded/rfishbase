@@ -1,0 +1,8 @@
+rfishbase 3.0.0
+
+Package contains these hard-coded paths (sercheck):
+CONTAINS: rfishbase/metadata/species.csv 
+
+Package contains these objects with hard-coded paths (walkcheck):
+OBJPATH:  as.list(getNamespace("rfishbase"), all.names=TRUE)[["meta"]] rfishbase/metadata/species.csv 
+SPATH:  rfishbase$meta rfishbase/metadata/species.csv 

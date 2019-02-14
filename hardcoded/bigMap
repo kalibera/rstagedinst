@@ -1,0 +1,8 @@
+bigMap 2.0.0
+
+Package contains these hard-coded paths (sercheck):
+CONTAINS: bigMap/extdata/ 
+
+Package contains these objects with hard-coded paths (walkcheck):
+OBJPATH:  as.list(getNamespace("bigMap"), all.names=TRUE)[["exbdm"]] bigMap/extdata/ 
+SPATH:  bigMap$exbdm bigMap/extdata/ 

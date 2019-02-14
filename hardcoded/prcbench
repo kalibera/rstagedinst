@@ -1,0 +1,8 @@
+prcbench 0.7.3
+
+Package contains these hard-coded paths (sercheck):
+CONTAINS: prcbench/java/auc2.jar 
+
+Package contains these objects with hard-coded paths (walkcheck):
+OBJPATH:  as.list(as.list(getNamespace("prcbench"), all.names=TRUE)[["ToolAUCCalculator"]],all.names=TRUE)[["private_fields"]][["jarpath"]] prcbench/java/auc2.jar 
+SPATH:  prcbench$ToolAUCCalculator$private_fields$jarpath prcbench/java/auc2.jar 

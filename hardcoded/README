@@ -1,0 +1,28 @@
+  21 CRAN packages:
+bayesdfa 0.1.1
+bigMap 2.0.0
+bmlm 1.3.9
+distrEllipse 2.7.0
+EmiStatR 1.2.1.1
+franc 1.1.1
+ganalytics 0.10.6
+glmmfields 0.1.1
+gWidgets2 1.0-7
+MODIS 1.1.4
+polidata 0.1.0
+prcbench 0.7.3
+ProjectTemplate 0.8.2
+race 0.1.59
+rfishbase 3.0.0
+RVowpalWabbit 0.0.12
+spdynmod 1.1.3
+trialr 0.0.6
+uavRst 0.5-2
+walker 0.2.3-1
+zonator 0.5.9
+
+  4 BIOC packages:
+cola 0.99.8
+flowPloidyData 1.9.0
+mtbls2 1.13.0
+PharmacoGx 1.13.0

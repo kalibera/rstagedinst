@@ -1,0 +1,8 @@
+distrEllipse 2.7.0
+
+Package contains these hard-coded paths (sercheck):
+CONTAINS: tools:::makeLazyLoading(\"distrEllipse\",\040\"/var/scratch2/tomas/test/mine/R-tst8/lib/00LOCK-distrEllipse/00new\",\040keep.source\040=\040FALSE,\040keep.parse.data\040=\040FALSE,\040set.install.dir\040=\040\"/var/scratch2/tomas/test/mine/R-tst8/lib/distrEllipse\") 
+
+Package contains these objects with hard-coded paths (walkcheck):
+OBJPATH:  as.list(environment(attributes(as.list(environment(attributes(as.list(environment(attributes(attributes(attributes(attributes(as.list(getNamespace("distrEllipse"), all.names=TRUE)[[".__C__MultivarMixingDistribution"]])[["prototype"]])[["mixDistr"]][[""]])[["radDistr"]])[["r"]]),all.names=TRUE)[["erg"]])[["d"]]),all.names=TRUE)[["object"]])[["q"]]),all.names=TRUE)[["syC"]][[""]] tools:::makeLazyLoading("distrEllipse", "/var/scratch2/tomas/test/mine/R-tst8/lib/00LOCK-distrEllipse/00new", keep.source = FALSE, keep.parse.data = FALSE, set.install.dir = "/var/scratch2/tomas/test/mine/R-tst8/lib/distrEllipse") 
+SPATH:  distrEllipse$.__C__MultivarMixingDistribution-A$prototype-A$mixDistr$-A$radDistr-A$r-E-$erg-A$d-E-$object-A$q-E-$syC$ tools:::makeLazyLoading("distrEllipse", "/var/scratch2/tomas/test/mine/R-tst8/lib/00LOCK-distrEllipse/00new", keep.source = FALSE, keep.parse.data = FALSE, set.install.dir = "/var/scratch2/tomas/test/mine/R-tst8/lib/distrEllipse") 

@@ -1,0 +1,21 @@
+PharmacoGx 1.13.0
+
+Package contains these hard-coded paths (sercheck):
+CONTAINS: PharmacoGx/Meta/package.rds
+CONTAINS: PharmacoGx/Meta/package.rds
+CONTAINS: PharmacoGx/Meta/package.rds
+CONTAINS: PharmacoGx/Meta/package.rds
+CONTAINS: PharmacoGx/Meta/package.rds
+CONTAINS: PharmacoGx/Meta/package.rds 
+
+Package contains these objects with hard-coded paths (walkcheck):
+OBJPATH:  attributes(attributes(as.list(getNamespace("PharmacoGx"), all.names=TRUE)[[".__C__sessionInfo"]])[["prototype"]][["loadedOnly"]][["PharmacoGx"]])[["file"]] PharmacoGx/Meta/package.rds 
+SPATH:  PharmacoGx$.__C__sessionInfo-A$prototype$loadedOnly$PharmacoGx-A$file PharmacoGx/Meta/package.rds 
+OBJPATH:  attributes(attributes(as.list(environment(attributes(attributes(as.list(getNamespace("PharmacoGx"), all.names=TRUE)[[".__C__PharmacoSig"]])[["contains"]][["vector"]])[["coerce"]]),all.names=TRUE)[["l"]][[".__C__sessionInfo"]])[["prototype"]][["loadedOnly"]][["PharmacoGx"]])[["file"]] PharmacoGx/Meta/package.rds 
+SPATH:  PharmacoGx$.__C__PharmacoSig-A$contains$vector-A$coerce-E-$l$.__C__sessionInfo-A$prototype$loadedOnly$PharmacoGx-A$file PharmacoGx/Meta/package.rds 
+OBJPATH:  attributes(attributes(attributes(as.list(environment(attributes(attributes(as.list(getNamespace("PharmacoGx"), all.names=TRUE)[[".__C__PharmacoSig"]])[["contains"]][["vector"]])[["coerce"]]),all.names=TRUE)[["l"]][[".__C__PharmacoSig"]])[["prototype"]])[["SessionInfo"]][["loadedOnly"]][["PharmacoGx"]])[["file"]] PharmacoGx/Meta/package.rds 
+SPATH:  PharmacoGx$.__C__PharmacoSig-A$contains$vector-A$coerce-E-$l$.__C__PharmacoSig-A$prototype-A$SessionInfo$loadedOnly$PharmacoGx-A$file PharmacoGx/Meta/package.rds 
+OBJPATH:  attributes(attributes(as.list(as.list(environment(attributes(attributes(as.list(getNamespace("PharmacoGx"), all.names=TRUE)[[".__C__PharmacoSig"]])[["contains"]][["vector"]])[["coerce"]]),all.names=TRUE)[["l"]][[".S3MethodsClasses"]],all.names=TRUE)[["sessionInfo"]])[["prototype"]][["loadedOnly"]][["PharmacoGx"]])[["file"]] PharmacoGx/Meta/package.rds 
+SPATH:  PharmacoGx$.__C__PharmacoSig-A$contains$vector-A$coerce-E-$l$.S3MethodsClasses$sessionInfo-A$prototype$loadedOnly$PharmacoGx-A$file PharmacoGx/Meta/package.rds 
+OBJPATH:  attributes(attributes(attributes(as.list(getNamespace("PharmacoGx"), all.names=TRUE)[[".__C__PharmacoSig"]])[["prototype"]])[["SessionInfo"]][["loadedOnly"]][["PharmacoGx"]])[["file"]] PharmacoGx/Meta/package.rds 
+SPATH:  PharmacoGx$.__C__PharmacoSig-A$prototype-A$SessionInfo$loadedOnly$PharmacoGx-A$file PharmacoGx/Meta/package.rds 

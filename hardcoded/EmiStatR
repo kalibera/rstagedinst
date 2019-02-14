@@ -1,0 +1,14 @@
+EmiStatR 1.2.1.1
+
+Package contains these hard-coded paths (sercheck):
+CONTAINS: EmiStatR/shiny
+CONTAINS: EmiStatR/shiny/EmiStatR_inputCSO/inputCSO/pe_factor.csv
+CONTAINS: EmiStatR/shiny/EmiStatR_inputCSO/inputCSO/qs_factor.csv 
+
+Package contains these objects with hard-coded paths (walkcheck):
+OBJPATH:  attributes(attributes(as.list(getNamespace("EmiStatR"), all.names=TRUE)[[".__C__input"]])[["prototype"]])[["folder"]] EmiStatR/shiny 
+SPATH:  EmiStatR$.__C__input-A$prototype-A$folder EmiStatR/shiny 
+OBJPATH:  attributes(attributes(as.list(getNamespace("EmiStatR"), all.names=TRUE)[[".__C__input"]])[["prototype"]])[["pe.daily.file"]] EmiStatR/shiny/EmiStatR_inputCSO/inputCSO/pe_factor.csv 
+SPATH:  EmiStatR$.__C__input-A$prototype-A$pe.daily.file EmiStatR/shiny/EmiStatR_inputCSO/inputCSO/pe_factor.csv 
+OBJPATH:  attributes(attributes(as.list(getNamespace("EmiStatR"), all.names=TRUE)[[".__C__input"]])[["prototype"]])[["qs.daily.file"]] EmiStatR/shiny/EmiStatR_inputCSO/inputCSO/qs_factor.csv 
+SPATH:  EmiStatR$.__C__input-A$prototype-A$qs.daily.file EmiStatR/shiny/EmiStatR_inputCSO/inputCSO/qs_factor.csv 

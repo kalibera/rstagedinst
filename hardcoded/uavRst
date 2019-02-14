@@ -1,0 +1,8 @@
+uavRst 0.5-2
+
+Package contains these hard-coded paths (sercheck):
+CONTAINS: uavRst/Meta/package.rds 
+
+Package contains these objects with hard-coded paths (walkcheck):
+OBJPATH:  attributes(as.list(getNamespace("uavRst"), all.names=TRUE)[["s"]][["loadedOnly"]][["uavRst"]])[["file"]] uavRst/Meta/package.rds 
+SPATH:  uavRst$s$loadedOnly$uavRst-A$file uavRst/Meta/package.rds 

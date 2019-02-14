@@ -1,0 +1,11 @@
+RVowpalWabbit 0.0.12
+
+Package contains these hard-coded paths (sercheck):
+CONTAINS: RVowpalWabbit/test/train-sets/0002.dat
+CONTAINS: RVowpalWabbit/test/models/0002.model 
+
+Package contains these objects with hard-coded paths (walkcheck):
+OBJPATH:  as.list(getNamespace("RVowpalWabbit"), all.names=TRUE)[[".test3"]][[""]] RVowpalWabbit/test/train-sets/0002.dat 
+SPATH:  RVowpalWabbit$.test3$ RVowpalWabbit/test/train-sets/0002.dat 
+OBJPATH:  as.list(getNamespace("RVowpalWabbit"), all.names=TRUE)[[".test3"]][[""]] RVowpalWabbit/test/models/0002.model 
+SPATH:  RVowpalWabbit$.test3$ RVowpalWabbit/test/models/0002.model 

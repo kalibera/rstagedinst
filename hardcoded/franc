@@ -1,0 +1,11 @@
+franc 1.1.1
+
+Package contains these hard-coded paths (sercheck):
+CONTAINS: franc/speakers.json
+CONTAINS: franc/data.json 
+
+Package contains these objects with hard-coded paths (walkcheck):
+OBJPATH:  as.list(getNamespace("franc"), all.names=TRUE)[["speakers_file"]] franc/speakers.json 
+SPATH:  franc$speakers_file franc/speakers.json 
+OBJPATH:  as.list(getNamespace("franc"), all.names=TRUE)[["datafile"]] franc/data.json 
+SPATH:  franc$datafile franc/data.json 

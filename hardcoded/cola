@@ -1,0 +1,10 @@
+cola 0.99.8
+
+Package contains these hard-coded paths (sercheck):
+CONTAINS: cola/extdata 
+
+Package contains these objects with hard-coded paths (walkcheck):
+OBJPATH:  as.list(environment(as.list(attributes(as.list(attributes(as.list(environment(as.list(getNamespace("cola"), all.names=TRUE)[["cola_opt"]]),all.names=TRUE)[["options"]][["raster_resize"]])[[".xData"]],all.names=TRUE)[[".refClassDef"]])[["fieldPrototypes"]],all.names=TRUE)[[".->validate"]]),all.names=TRUE)[["l"]][["TEMPLATE_DIR"]] cola/extdata 
+SPATH:  cola$cola_opt-E-$options$raster_resize-A$.xData$.refClassDef-A$fieldPrototypes$.->validate-E-$l$TEMPLATE_DIR cola/extdata 
+OBJPATH:  as.list(getNamespace("cola"), all.names=TRUE)[["TEMPLATE_DIR"]] cola/extdata 
+SPATH:  cola$TEMPLATE_DIR cola/extdata 

@@ -1,0 +1,8 @@
+race 0.1.59
+
+Package contains these hard-coded paths (sercheck):
+CONTAINS: race/slave/srace.sh 
+
+Package contains these objects with hard-coded paths (walkcheck):
+OBJPATH:  as.list(getNamespace("race"), all.names=TRUE)[[".race.slave.sh"]] race/slave/srace.sh 
+SPATH:  race$.race.slave.sh race/slave/srace.sh 

@@ -1,0 +1,53 @@
+flowPloidyData 1.9.0
+
+Package contains these hard-coded paths (sercheck):
+CONTAINS: flowPloidyData/extdata//vac
+CONTAINS: flowPloidyData/extdata//188-15.LMD
+CONTAINS: flowPloidyData/extdata//222.LMD
+CONTAINS: flowPloidyData/extdata//240+S.LMD
+CONTAINS: flowPloidyData/extdata//240-4-2+rad.LMD
+CONTAINS: flowPloidyData/extdata//248+S.LMD
+CONTAINS: flowPloidyData/extdata//248+r.LMD
+CONTAINS: flowPloidyData/extdata//337.LMD
+CONTAINS: flowPloidyData/extdata//350.LMD
+CONTAINS: flowPloidyData/extdata//358.LMD
+CONTAINS: flowPloidyData/extdata//597.LMD
+CONTAINS: flowPloidyData/extdata//734.LMD
+CONTAINS: flowPloidyData/extdata//744.LMD
+CONTAINS: flowPloidyData/extdata//S.621.LMD
+CONTAINS: flowPloidyData/extdata//SM239.LMD
+CONTAINS: flowPloidyData/extdata//08.328 
+
+Package contains these objects with hard-coded paths (walkcheck):
+OBJPATH:  as.list(getNamespace("flowPloidyData"), all.names=TRUE)[["fpVac"]] flowPloidyData/extdata//vac 
+SPATH:  flowPloidyData$fpVac flowPloidyData/extdata//vac 
+OBJPATH:  as.list(getNamespace("flowPloidyData"), all.names=TRUE)[["flowPloidyFiles"]][["188-15.LMD"]] flowPloidyData/extdata//188-15.LMD 
+SPATH:  flowPloidyData$flowPloidyFiles$188-15.LMD flowPloidyData/extdata//188-15.LMD 
+OBJPATH:  as.list(getNamespace("flowPloidyData"), all.names=TRUE)[["flowPloidyFiles"]][["222.LMD"]] flowPloidyData/extdata//222.LMD 
+SPATH:  flowPloidyData$flowPloidyFiles$222.LMD flowPloidyData/extdata//222.LMD 
+OBJPATH:  as.list(getNamespace("flowPloidyData"), all.names=TRUE)[["flowPloidyFiles"]][["240+S.LMD"]] flowPloidyData/extdata//240+S.LMD 
+SPATH:  flowPloidyData$flowPloidyFiles$240+S.LMD flowPloidyData/extdata//240+S.LMD 
+OBJPATH:  as.list(getNamespace("flowPloidyData"), all.names=TRUE)[["flowPloidyFiles"]][["240-4-2+rad.LMD"]] flowPloidyData/extdata//240-4-2+rad.LMD 
+SPATH:  flowPloidyData$flowPloidyFiles$240-4-2+rad.LMD flowPloidyData/extdata//240-4-2+rad.LMD 
+OBJPATH:  as.list(getNamespace("flowPloidyData"), all.names=TRUE)[["flowPloidyFiles"]][["248+S.LMD"]] flowPloidyData/extdata//248+S.LMD 
+SPATH:  flowPloidyData$flowPloidyFiles$248+S.LMD flowPloidyData/extdata//248+S.LMD 
+OBJPATH:  as.list(getNamespace("flowPloidyData"), all.names=TRUE)[["flowPloidyFiles"]][["248+r.LMD"]] flowPloidyData/extdata//248+r.LMD 
+SPATH:  flowPloidyData$flowPloidyFiles$248+r.LMD flowPloidyData/extdata//248+r.LMD 
+OBJPATH:  as.list(getNamespace("flowPloidyData"), all.names=TRUE)[["flowPloidyFiles"]][["337.LMD"]] flowPloidyData/extdata//337.LMD 
+SPATH:  flowPloidyData$flowPloidyFiles$337.LMD flowPloidyData/extdata//337.LMD 
+OBJPATH:  as.list(getNamespace("flowPloidyData"), all.names=TRUE)[["flowPloidyFiles"]][["350.LMD"]] flowPloidyData/extdata//350.LMD 
+SPATH:  flowPloidyData$flowPloidyFiles$350.LMD flowPloidyData/extdata//350.LMD 
+OBJPATH:  as.list(getNamespace("flowPloidyData"), all.names=TRUE)[["flowPloidyFiles"]][["358.LMD"]] flowPloidyData/extdata//358.LMD 
+SPATH:  flowPloidyData$flowPloidyFiles$358.LMD flowPloidyData/extdata//358.LMD 
+OBJPATH:  as.list(getNamespace("flowPloidyData"), all.names=TRUE)[["flowPloidyFiles"]][["597.LMD"]] flowPloidyData/extdata//597.LMD 
+SPATH:  flowPloidyData$flowPloidyFiles$597.LMD flowPloidyData/extdata//597.LMD 
+OBJPATH:  as.list(getNamespace("flowPloidyData"), all.names=TRUE)[["flowPloidyFiles"]][["734.LMD"]] flowPloidyData/extdata//734.LMD 
+SPATH:  flowPloidyData$flowPloidyFiles$734.LMD flowPloidyData/extdata//734.LMD 
+OBJPATH:  as.list(getNamespace("flowPloidyData"), all.names=TRUE)[["flowPloidyFiles"]][["744.LMD"]] flowPloidyData/extdata//744.LMD 
+SPATH:  flowPloidyData$flowPloidyFiles$744.LMD flowPloidyData/extdata//744.LMD 
+OBJPATH:  as.list(getNamespace("flowPloidyData"), all.names=TRUE)[["flowPloidyFiles"]][["S.621.LMD"]] flowPloidyData/extdata//S.621.LMD 
+SPATH:  flowPloidyData$flowPloidyFiles$S.621.LMD flowPloidyData/extdata//S.621.LMD 
+OBJPATH:  as.list(getNamespace("flowPloidyData"), all.names=TRUE)[["flowPloidyFiles"]][["SM239.LMD"]] flowPloidyData/extdata//SM239.LMD 
+SPATH:  flowPloidyData$flowPloidyFiles$SM239.LMD flowPloidyData/extdata//SM239.LMD 
+OBJPATH:  as.list(getNamespace("flowPloidyData"), all.names=TRUE)[["fpBad"]] flowPloidyData/extdata//08.328 
+SPATH:  flowPloidyData$fpBad flowPloidyData/extdata//08.328 

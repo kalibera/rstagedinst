@@ -1,0 +1,8 @@
+polidata 0.1.0
+
+Package contains these hard-coded paths (sercheck):
+CONTAINS: polidata/extdata/api.json 
+
+Package contains these objects with hard-coded paths (walkcheck):
+OBJPATH:  as.list(getNamespace("polidata"), all.names=TRUE)[[".apiJson"]] polidata/extdata/api.json 
+SPATH:  polidata$.apiJson polidata/extdata/api.json 

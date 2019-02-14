@@ -1,0 +1,8 @@
+glmmfields 0.1.1
+
+Package contains these hard-coded paths (sercheck):
+CONTAINS: glmmfields/chunks 
+
+Package contains these objects with hard-coded paths (walkcheck):
+OBJPATH:  as.list(environment(attributes(as.list(environment(attributes(as.list(environment(as.list(environment(as.list(attributes(as.list(attributes(attributes(attributes(as.list(as.list(attributes(as.list(getNamespace("glmmfields"), all.names=TRUE)[[".__Mod__stan_fit4glmmfields_mod"]])[[".xData"]],all.names=TRUE)[["storage"]],all.names=TRUE)[["model_glmmfields"]])[["generator"]])[["generator"]])[[".xData"]],all.names=TRUE)[["def"]])[["refMethods"]],all.names=TRUE)[["initialize"]]),all.names=TRUE)[["methods"]][["finalize"]]),all.names=TRUE)[["CLASS"]])[["generator"]]),all.names=TRUE)[["l"]][["stanmodels"]][["glmmfields"]])[["mk_cppmodule"]]),all.names=TRUE)[["isystem"]] glmmfields/chunks 
+SPATH:  glmmfields$.__Mod__stan_fit4glmmfields_mod-A$.xData$storage$model_glmmfields-A$generator-A$generator-A$.xData$def-A$refMethods$initialize-E-$methods$finalize-E-$CLASS-A$generator-E-$l$stanmodels$glmmfields-A$mk_cppmodule-E-$isystem glmmfields/chunks 

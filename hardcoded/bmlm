@@ -1,0 +1,11 @@
+bmlm 1.3.9
+
+Package contains these hard-coded paths (sercheck):
+CONTAINS: bmlm/chunks
+CONTAINS: bmlm/chunks 
+
+Package contains these objects with hard-coded paths (walkcheck):
+OBJPATH:  as.list(environment(attributes(as.list(getNamespace("bmlm"), all.names=TRUE)[["stanmodels"]][["bmlm"]])[["mk_cppmodule"]]),all.names=TRUE)[["isystem"]] bmlm/chunks 
+SPATH:  bmlm$stanmodels$bmlm-A$mk_cppmodule-E-$isystem bmlm/chunks 
+OBJPATH:  as.list(environment(attributes(as.list(getNamespace("bmlm"), all.names=TRUE)[["stanmodels"]][["bmlm_binary_y"]])[["mk_cppmodule"]]),all.names=TRUE)[["isystem"]] bmlm/chunks 
+SPATH:  bmlm$stanmodels$bmlm_binary_y-A$mk_cppmodule-E-$isystem bmlm/chunks 

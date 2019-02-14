@@ -1,0 +1,8 @@
+spdynmod 1.1.3
+
+Package contains these hard-coded paths (sercheck):
+CONTAINS: spdynmod/extdata 
+
+Package contains these objects with hard-coded paths (walkcheck):
+OBJPATH:  as.list(getNamespace("spdynmod"), all.names=TRUE)[["rpath"]] spdynmod/extdata 
+SPATH:  spdynmod$rpath spdynmod/extdata 

@@ -1,0 +1,8 @@
+MODIS 1.1.4
+
+Package contains these hard-coded paths (sercheck):
+CONTAINS: MODIS/external 
+
+Package contains these objects with hard-coded paths (walkcheck):
+OBJPATH:  as.list(getNamespace("MODIS"), all.names=TRUE)[["ofl"]] MODIS/external 
+SPATH:  MODIS$ofl MODIS/external 
